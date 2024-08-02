@@ -1,0 +1,24 @@
+p {
+    background-color: pink;
+    font-family: sans-serif;
+}
+
+.normal {
+    font-size: 14px;
+}
+
+.big {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#big-blue {
+    font-size: 32px;
+    color: blue;
+}
+
+#medium-green {
+    font-size: 18px;
+    background-color: rgba(119, 255, 119, 0.87);
+    font-weight: bold;
+}
