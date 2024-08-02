@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-size: 36px;
+    font-family: sans-serif;
+    border-color: grey;
+    justify-content: center;
+    color: black;
+}
+
+.black-button {
+    background-color: black;
+    color: white;
+}
+
+.yellow-button {
+    background-color: yellow;
+    margin-left: 5px;
+}
